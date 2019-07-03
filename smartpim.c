@@ -6,13 +6,6 @@
 #include <string.h>
 
 
-/*
--------------------------------------
-*      COMMIT DIA 26/11/2018        *
-*        DEV WAGNER NEVES           *
-*        DEV IGOR HENRIQUE          *
--------------------------------------
-*/
 
 void logo()
 {
